@@ -1,3 +1,4 @@
+# 乐学偶得版权所有 lexueoude.com 公众号1：乐学Fintech 2: 乐学偶得
 import bs4 as bs
 import pickle
 import tushare as ts
@@ -8,6 +9,7 @@ import  matplotlib.pyplot as plt
 from matplotlib import style
 
 style.use('ggplot')
+
 
 #
 #ts.set_token('')
